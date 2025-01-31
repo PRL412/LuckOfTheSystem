@@ -1,0 +1,20 @@
+¿Cuál es la capital de Francia?|París
+¿El agua es H2O?|verdadero
+¿El sol es una estrella?|verdadero
+¿La Tierra es plana?|falso
+¿Cuál es el color del cielo en un día despejado?|azul
+¿Los humanos tienen 206 huesos?|verdadero
+¿El oso polar vive en el Ártico?|verdadero
+¿El corazón tiene cuatro cámaras?|verdadero
+¿La luna es un planeta?|falso
+¿El oxígeno es un gas?|verdadero
+¿El número atómico del hidrógeno es 1?|verdadero
+¿El Amazonas es el río más largo del mundo?|verdadero
+¿El español es el idioma oficial de Brasil?|falso
+¿El Everest es la montaña más alta del mundo?|verdadero
+¿El hierro es un metal?|verdadero
+¿El año tiene 365 días?|verdadero
+¿El ser humano tiene cinco sentidos?|verdadero
+¿El color negro es la ausencia de luz?|verdadero
+¿El agua hierve a 100 grados Celsius?|verdadero
+¿El átomo es la unidad básica de la materia?|verdadero
